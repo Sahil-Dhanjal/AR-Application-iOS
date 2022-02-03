@@ -1,4 +1,4 @@
-# AR-Application-iOS
+# AR Application iOS
 
 Heya! <br>
 In this repository, I've implemented the Web-based AR that can be opened on any Apple iPhone (ArKit enabled device running iOS 12.0). <br>
