@@ -7,3 +7,6 @@ Here's the link to the Web Application: [Link](https://61fb6aa93442ed1538f8e192-
 
 
 Here's the link to the AR Quicklook's Documentation - [Link](https://www.raywenderlich.com/books/apple-augmented-reality-by-tutorials/v1.0/chapters/2-ar-quick-look)
+
+**Reality Composer** for Adding Animations - [Link](https://www.raywenderlich.com/books/apple-augmented-reality-by-tutorials/v1.0/chapters/3-reality-composer-reality-files)
+
